@@ -16,7 +16,7 @@
 - All attacks and potions can also be used by clicking the corresponding icon in the menu.  
 
 ### **Game Download**  
-You can download the game build at: [Download Link](https://files.fm/f/rw88a3gm7r)  
+You can download the game build at: [Download Link](https://files.fm/u/czhk53e5td)  
 
 ### **Development Contributions**  
 - Implemented game mechanics and necessary scripts  
